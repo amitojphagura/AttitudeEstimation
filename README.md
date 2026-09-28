@@ -38,4 +38,4 @@ Each filter lives in its own folder (sketch, filter header if it needs one, and 
 
 ## Sources
 https://randomnerdtutorials.com/esp32-mpu-6050-accelerometer-gyroscope-arduino/
-See STARR (UAlberta rocketry team) wiki for additional info on filters.
+
